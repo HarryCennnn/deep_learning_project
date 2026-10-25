@@ -1,0 +1,5 @@
+ASIN	question	qid	candidate	qa_pair_id	source	context	label	answer
+toy-001	How many batteries does it need, and are they included?	q1	Requires two AA batteries.	c1	bullet point	Requires two AA batteries.	1	""
+toy-001	How many batteries does it need?	q2	Requires two AA batteries.	c2	bullet point	Requires two AA batteries.	2	It requires two AA batteries.
+toy-001	Are batteries included?	q3	Recommended for ages 8 and up.	c3	bullet point	Recommended for ages 8 and up.	0	""
+shirt-002	What material is the shirt?	q4	Made of 100% cotton.	c4	bullet point	Made of 100% cotton.	2	The shirt is made of 100% cotton.
